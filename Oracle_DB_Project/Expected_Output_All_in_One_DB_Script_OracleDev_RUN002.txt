@@ -1,0 +1,3741 @@
+
+Table BORROWING dropped.
+
+
+Table RESERVATIONS dropped.
+
+
+Table BOOKCOPIES dropped.
+
+
+Table MEMBERS dropped.
+
+
+Table STAFF dropped.
+
+
+Table BOOKS dropped.
+
+
+Table AUTHORS dropped.
+
+
+Table CATEGORIES dropped.
+
+
+Table BORROWINGSTAFF dropped.
+
+
+Error starting at line : 28 in command -
+DROP TABLE BOOKS_1 CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 29 in command -
+DROP TABLE BOOKS_2 CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 30 in command -
+DROP TABLE ORDERS CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 31 in command -
+DROP TABLE PUBLISHER CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 32 in command -
+DROP TABLE AUTHOR CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 33 in command -
+DROP TABLE BOOKS CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 34 in command -
+DROP TABLE ORDERITEMS CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 35 in command -
+DROP TABLE BOOKAUTHOR CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 36 in command -
+DROP TABLE PROMOTION CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 37 in command -
+DROP TABLE ACCTMANAGER CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 38 in command -
+DROP TABLE ACCTBONUS CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 39 in command -
+DROP TABLE TESTING CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 40 in command -
+DROP TABLE WAREHOUSES CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 41 in command -
+DROP TABLE PUBLISHER2 CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 42 in command -
+DROP TABLE PUBLISHER3 CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 43 in command -
+DROP TABLE WEBHITS CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 44 in command -
+DROP TABLE SUPPLIERS CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 45 in command -
+DROP TABLE CONTACTS CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 46 in command -
+DROP TABLE EMPLOYEES CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 47 in command -
+DROP TABLE DEPARTMENT CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 48 in command -
+DROP TABLE ACCTMANAGER2 CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 49 in command -
+DROP TABLE CUSTOMERS CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 52 in command -
+DROP VIEW CONTACT
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 53 in command -
+DROP VIEW HOMEWORK13
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 54 in command -
+DROP VIEW REORDERINFO
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+View MEMBERBORROWINGHISTORY dropped.
+
+
+View MEMBERACTIVITYSUMMARY dropped.
+
+
+View BOOKSBYCATEGORY dropped.
+
+
+View OVERDUEBOOKS dropped.
+
+
+View BORROWINGANDRETURNS dropped.
+
+
+View WHORETURNEDBOOKSLATE dropped.
+
+
+View ACTIVERESERVATIONS dropped.
+
+
+View WHATSTAFFISSUEDBORROWINGS dropped.
+
+
+View STAFFBORROWINGSLOG dropped.
+
+
+View TOPTENBOOKSBORROWED dropped.
+
+
+View BOOKSNEVERBORROWED dropped.
+
+
+View RECENTMEMBERSWHOBORROWED dropped.
+
+
+View POPULARAUTHORS dropped.
+
+
+View BORROWINGDETAILS dropped.
+
+
+Error starting at line : 71 in command -
+DROP VIEW MemberBorrowingSummary CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+View BOOKAVAILABILITYVIEW dropped.
+
+no rows selected
+
+VIEW_NAME                                                                                                                       
+--------------------------------------------------------------------------------------------------------------------------------
+CIRCULATIONFREQUENCYBYBOOK
+CIRCULATIONFREQUENCYBYMEMBER
+FREQUENTBORROWERS
+BORROWINGPATTERNSBYWEEKDAY
+RECENTFIRSTTIMEBORROWERS
+TOPBORROWINGHOURS
+NEWVSRETURNINGBORROWERSPERMONTH
+BORROWINGSBYCATEGORYPERMONTH
+
+8 rows selected. 
+
+
+Error starting at line : 85 in command -
+DROP TABLE Borrowing      CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 86 in command -
+DROP TABLE Reservations   CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 87 in command -
+DROP TABLE BookCopies     CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 88 in command -
+DROP TABLE Members        CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 89 in command -
+DROP TABLE Staff          CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 90 in command -
+DROP TABLE Books          CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 91 in command -
+DROP TABLE Authors        CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 92 in command -
+DROP TABLE Categories     CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 93 in command -
+DROP TABLE BorrowingStaff CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Table CATEGORIES created.
+
+
+Table AUTHORS created.
+
+
+Table BOOKS created.
+
+
+Table BOOKCOPIES created.
+
+
+Table MEMBERS created.
+
+
+Table STAFF created.
+
+
+Table BORROWING created.
+
+
+Table RESERVATIONS created.
+
+
+Table BORROWINGSTAFF created.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Error starting at line : 608 in command -
+DROP VIEW MemberBorrowingHistory CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 609 in command -
+DROP VIEW MemberActivitySummary CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 610 in command -
+DROP VIEW BooksByCategory CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 611 in command -
+DROP VIEW OverdueBooks CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 612 in command -
+DROP VIEW BorrowingAndReturns CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 613 in command -
+DROP VIEW WhoReturnedBooksLate CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 614 in command -
+DROP VIEW ActiveReservations CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 615 in command -
+DROP VIEW WhatStaffIssuedBorrowings CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 616 in command -
+DROP VIEW StaffBorrowingsLog CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 617 in command -
+DROP VIEW TopTenBooksBorrowed CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 618 in command -
+DROP VIEW BooksNeverBorrowed CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 619 in command -
+DROP VIEW RecentMembersWhoBorrowed CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 620 in command -
+DROP VIEW PopularAuthors CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 621 in command -
+DROP VIEW BorrowingDetails CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 622 in command -
+DROP VIEW MemberBorrowingSummary CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+Error starting at line : 623 in command -
+DROP VIEW BookAvailabilityView CASCADE CONSTRAINTS
+Error report -
+ORA-00942: table or view does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/00942. 00000 -  "table or view%s does not exist"
+*Cause:    The specified table or view did not exist, or a synonym
+           pointed to a table or view that did not exist.
+           To find existing user tables and views, query the
+           ALL_TABLES and ALL_VIEWS data dictionary views. Certain
+           privileges may be required to access the table. If an
+           application returned this message, then the table that the
+           application tried to access did not exist in the database, or
+           the application did not have access to it.
+*Action:   Check each of the following
+           - The spelling of the table or view name is correct.
+           - The referenced table or view name does exist.
+           - The synonym points to an existing table or view.
+
+View MEMBERBORROWINGHISTORY created.
+
+
+View MEMBERACTIVITYSUMMARY created.
+
+
+View BOOKSBYCATEGORY created.
+
+
+View OVERDUEBOOKS created.
+
+
+View BORROWINGANDRETURNS created.
+
+
+View WHORETURNEDBOOKSLATE created.
+
+
+View ACTIVERESERVATIONS created.
+
+
+View WHATSTAFFISSUEDBORROWINGS created.
+
+
+View STAFFBORROWINGSLOG created.
+
+
+View TOPTENBOOKSBORROWED created.
+
+
+View BOOKSNEVERBORROWED created.
+
+
+View RECENTMEMBERSWHOBORROWED created.
+
+
+View POPULARAUTHORS created.
+
+
+View BORROWINGDETAILS created.
+
+
+View MEMBERBORROWINGSUMMARY created.
+
+
+View BOOKAVAILABILITYVIEW created.
+
+Displaying: Authors Table
+
+  AUTHORID FIRSTNAME            LASTNAME            
+---------- -------------------- --------------------
+       301 George               Orwell              
+       302 Robert C.            Martin              
+       303 Harper               Lee                 
+       304 F. Scott             Fitzgerald          
+       305 Herman               Melville            
+       306 Jane                 Austen              
+       307 Aldous               Huxley              
+       308 Leo                  Tolstoy             
+       309 J.D.                 Salinger            
+       310 Fyodor               Dostoevsky          
+       311 Andy                 Hunt                
+       312 Emily                Bronte              
+       313 Charles              Dickens             
+       314 Ray                  Bradbury            
+       315 Charlotte            Bronte              
+       316 Robert               C. Martin           
+       317 Mary                 Shelley             
+       318 Bram                 Stoker              
+       319 Homer                Simpson             
+       320 Dante                Alighieri           
+       321 Victor               Hugo                
+       322 Oscar                Wilde               
+       323 Kurt                 Vonnegut            
+       324 Joseph               Heller              
+       325 Ernest               Hemingway           
+       326 John                 Steinbeck           
+       327 Cormac               McCarthy            
+       328 Sylvia               Plath               
+       329 Albert               Camus               
+       330 Franz                Kafka               
+       331 James                Joyce               
+       332 H.G.                 Wells               
+       333 Jules                Verne               
+       334 Anthony              Hawke               
+       335 Johnathan            Query               
+       336 Samuel               Soloman             
+       337 Nathan               Hall                
+       338 Quedric              Simone              
+       339 Connor               Bailey              
+       340 Theodore             Spade               
+       341 Chuck                Hyde                
+       342 Caroline             Tenor               
+       343 Sadar                Copola              
+       344 Winnie               Spade               
+       345 Mitch                Holland             
+       346 Arthur               Hackwood            
+       347 Jenn                 Williams            
+
+  AUTHORID FIRSTNAME            LASTNAME            
+---------- -------------------- --------------------
+       348 Carter               Blithe              
+       349 Hasten               Milley              
+       350 Suzanne              Grady               
+
+50 rows selected. 
+
+Displaying: Books Table
+
+    BOOKID TITLE                                      AUTHORID ISBN          CATCODE    PUBLISHER                     
+---------- ---------------------------------------- ---------- ------------- ---------- ------------------------------
+      5000 1984                                            301 9780000000000 FIC        Secker and Warburg            
+      5001 Clean Code                                      302 9780000000001 TECH       Prentice Hall                 
+      5002 To Kill a Mockingbird                           303 9780000000002 PHIL       J.B. Lippincott and Co.       
+      5003 The Great Gatsby                                304 9780000000003 FAN        Scribner                      
+      5004 Moby Dick                                       305 9780000000004 NF         Harper and Brothers           
+      5005 Pride and Prejudice                             306 9780000000005 SELF       T. Egerton                    
+      5006 Brave New World                                 307 9780000000006 PSY        Chatto and Windus             
+      5007 War and Peace                                   308 9780000000007 FIC        The Russian Messenger         
+      5008 The Catcher in the Rye                          309 9780000000008 TECH       Little, Brown and Company     
+      5009 Crime and Punishment                            310 9780000000009 PHIL       Vintage                       
+      5010 The Pragmatic Programmer                        311 9780000000010 FAN        Secker and Warburg            
+      5011 Emma                                            306 9780000000011 NF         Prentice Hall                 
+      5012 Animal Farm                                     301 9780000000012 SELF       J.B. Lippincott and Co.       
+      5013 Sense and Sensibility                           306 9780000000013 PSY        Scribner                      
+      5014 Fahrenheit 451                                  314 9780000000014 FIC        Harper and Brothers           
+      5015 Jane Eyre                                       315 9780000000015 TECH       T. Egerton                    
+      5016 The Brothers Karamazov                          310 9780000000016 PHIL       Chatto and Windus             
+      5017 The Clean Coder                                 302 9780000000017 FAN        The Russian Messenger         
+      5018 Wuthering Heights                               312 9780000000018 NF         Little, Brown and Company     
+      5019 Great Expectations                              313 9780000000019 SELF       Vintage                       
+      5020 The Hobbit                                      333 9780000000020 PSY        Secker and Warburg            
+      5021 Lord of the Flies                               313 9780000000021 FIC        Prentice Hall                 
+      5022 A Tale of Two Cities                            313 9780000000022 TECH       J.B. Lippincott and Co.       
+      5023 The Scarlet Letter                              313 9780000000023 PHIL       Scribner                      
+      5024 Frankenstein                                    317 9780000000024 FAN        Harper and Brothers           
+      5025 Dracula                                         318 9780000000025 NF         T. Egerton                    
+      5026 The Odyssey                                     319 9780000000026 SELF       Chatto and Windus             
+      5027 The Iliad                                       319 9780000000027 PSY        The Russian Messenger         
+      5028 The Divine Comedy                               320 9780000000028 FIC        Little, Brown and Company     
+      5029 Les Misérables                                  321 9780000000029 TECH       Vintage                       
+      5030 The Picture of Dorian Gray                      322 9780000000030 PHIL       Secker and Warburg            
+      5031 Slaughterhouse-Five                             323 9780000000031 FAN        Prentice Hall                 
+      5032 Catch-22                                        324 9780000000032 NF         J.B. Lippincott and Co.       
+      5033 The Sun Also Rises                              325 9780000000033 SELF       Scribner                      
+      5034 Of Mice and Men                                 326 9780000000034 PSY        Harper and Brothers           
+      5035 The Old Man and the Sea                         325 9780000000035 FIC        T. Egerton                    
+      5036 The Road                                        327 9780000000036 TECH       Chatto and Windus             
+      5037 No Country for Old Men                          327 9780000000037 PHIL       The Russian Messenger         
+      5038 The Bell Jar                                    328 9780000000038 FAN        Little, Brown and Company     
+      5039 The Stranger                                    329 9780000000039 NF         Vintage                       
+      5040 The Metamorphosis                               330 9780000000040 SELF       Secker and Warburg            
+      5041 The Trial                                       330 9780000000041 PSY        Prentice Hall                 
+      5042 Ulysses                                         331 9780000000042 FIC        J.B. Lippincott and Co.       
+      5043 Dubliners                                       331 9780000000043 TECH       Scribner                      
+      5044 A Portrait of the Artist as a Young Man         331 9780000000044 PHIL       Harper and Brothers           
+      5045 The Time Machine                                332 9780000000045 FAN        T. Egerton                    
+      5046 The War of the Worlds                           332 9780000000046 NF         Chatto and Windus             
+
+    BOOKID TITLE                                      AUTHORID ISBN          CATCODE    PUBLISHER                     
+---------- ---------------------------------------- ---------- ------------- ---------- ------------------------------
+      5047 Journey to the Center of the Earth              333 9780000000047 SELF       The Russian Messenger         
+      5048 Around the World in 80 Days                     333 9780000000048 PSY        Little, Brown and Company     
+      5049 20,000 Leagues Under the Sea                    333 9780000000049 FIC        Vintage                       
+
+50 rows selected. 
+
+Displaying: BookCopies Table
+
+    COPYID S     BOOKID
+---------- - ----------
+      6001 A       5001
+      6002 A       5002
+      6003 I       5003
+      6004 I       5004
+      6005 A       5005
+      6006 I       5006
+      6007 A       5007
+      6008 A       5008
+      6009 I       5009
+      6010 A       5010
+      6011 A       5011
+      6012 A       5012
+      6013 I       5013
+      6014 I       5014
+      6015 A       5015
+      6016 I       5016
+      6017 A       5017
+      6018 A       5018
+      6019 I       5019
+      6020 I       5020
+      6021 I       5021
+      6022 A       5022
+      6023 A       5023
+      6024 A       5024
+      6025 I       5025
+      6026 I       5026
+      6027 A       5027
+      6028 I       5028
+      6029 I       5029
+      6030 I       5030
+      6031 I       5031
+      6032 A       5032
+      6033 I       5033
+      6034 A       5034
+      6035 A       5035
+      6036 A       5036
+      6037 I       5037
+      6038 I       5038
+      6039 A       5039
+      6040 I       5040
+      6041 A       5041
+      6042 I       5042
+      6043 A       5043
+      6044 I       5044
+      6045 I       5045
+      6046 I       5046
+      6047 I       5047
+
+    COPYID S     BOOKID
+---------- - ----------
+      6048 I       5048
+      6049 A       5049
+      6050 A       5000
+
+50 rows selected. 
+
+Displaying: Categories Table
+
+CATCODE    CATNAME                       
+---------- ------------------------------
+FIC        Fiction                       
+SCI        Science                       
+HIS        History                       
+BIO        Biography                     
+MYS        Mystery                       
+ROM        Romance                       
+TEC        Technology                    
+ART        Art                           
+POE        Poetry                        
+PHI        Philosophy                    
+TECH       Technology and Coding         
+PHIL       Philosophy and Ethics         
+FAN        Fantasy Fiction               
+NF         Non-Fiction                   
+SELF       Self-Help and Wellness        
+PSY        Psychology and Behavior       
+
+16 rows selected. 
+
+Displaying: Members Table
+
+  MEMBERID FIRSTNAME            LASTNAME             PHONE           EMAIL                          MEMBERSHI
+---------- -------------------- -------------------- --------------- ------------------------------ ---------
+       401 Emma                 White                (646) 229-5494  emma.white@gmail.com           26-OCT-24
+       402 Benjamin             Hernandez            (814) 229-9042  benjamin.hernandez@gmail.com   09-FEB-24
+       403 Evelyn               Hernandez            (580) 590-8216  evelyn.hernandez@outlook.com   17-APR-19
+       404 Liam                 Martinez             (982) 589-2869  liam.martinez@gmail.com        21-OCT-20
+       405 Olivia               Martin               (744) 802-1878  olivia.martin@yahoo.com        17-JAN-19
+       406 Olivia               Davis                (221) 671-7818  olivia.davis@yahoo.com         06-JUN-23
+       407 Charlotte            Thomas               (553) 404-8025  charlotte.thomas@outlook.com   24-DEC-21
+       408 Liam                 Lee                  (857) 201-4404  liam.lee@yahoo.com             08-NOV-19
+       409 Olivia               Garcia               (345) 277-2229  olivia.garcia@yahoo.com        07-JAN-18
+       410 Amelia               White                (708) 581-5771  amelia.white@gmail.com         15-AUG-19
+       411 Scarlett             Hernandez            (819) 980-8438  scarlett.hernandez@gmail.com   23-OCT-22
+       412 Isabella             Perez                (703) 777-4241  isabella.perez@libmail.org     21-OCT-18
+       413 Lucas                Perez                (252) 372-3330  lucas.perez@gmail.com          02-JUN-18
+       414 Mason                Lee                  (866) 944-5728  mason.lee@libmail.org          14-NOV-18
+       415 Scarlett             Wilson               (378) 612-9847  scarlett.wilson@libmail.org    23-JAN-21
+       416 Sebastian            Johnson              (542) 852-6280  sebastian.johnson@outlook.com  08-MAR-18
+       417 Lucas                Thompson             (956) 981-1339  lucas.thompson@outlook.com     12-JAN-22
+       418 Grace                Sanchez              (279) 581-9502  grace.sanchez@libmail.org      30-MAY-24
+       419 Elijah               Martin               (546) 750-9056  elijah.martin@gmail.com        16-APR-21
+       420 Ethan                Lopez                (428) 786-2713  ethan.lopez@yahoo.com          22-APR-20
+       421 Scarlett             Taylor               (395) 778-7561  scarlett.taylor@gmail.com      08-MAR-21
+       422 Mia                  Martinez             (431) 218-7622  mia.martinez@gmail.com         08-AUG-22
+       423 Benjamin             Thomas               (523) 155-4073  benjamin.thomas@outlook.com    11-MAY-22
+       424 James                Perez                (552) 878-1845  james.perez@yahoo.com          14-NOV-19
+       425 Ava                  Hernandez            (548) 815-8941  ava.hernandez@gmail.com        15-MAR-18
+       426 Ella                 Lee                  (918) 345-3594  ella.lee@outlook.com           08-NOV-21
+       427 Benjamin             Anderson             (195) 330-2858  benjamin.anderson@libmail.org  17-AUG-24
+       428 Ella                 Jones                (610) 833-5781  ella.jones@outlook.com         27-NOV-20
+       429 James                Taylor               (349) 567-3369  james.taylor@libmail.org       03-MAY-19
+       430 Sebastian            Moore                (864) 239-2143  sebastian.moore@outlook.com    29-MAY-23
+       431 Harper               Martinez             (940) 102-5634  harper.martinez@outlook.com    11-NOV-23
+       432 Evelyn               Thompson             (601) 986-3434  evelyn.thompson@libmail.org    08-OCT-21
+       433 Logan                Lopez                (665) 881-9903  logan.lopez@libmail.org        09-MAR-21
+       434 Mia                  Miller               (814) 344-7274  mia.miller@yahoo.com           28-DEC-23
+       435 Ethan                Johnson              (425) 862-8749  ethan.johnson@libmail.org      13-SEP-20
+       436 Jack                 Perez                (255) 607-1606  jack.perez@yahoo.com           07-JUL-21
+       437 Evelyn               Lopez                (990) 202-8213  evelyn.lopez@gmail.com         06-SEP-21
+       438 Amelia               Smith                (839) 247-7717  amelia.smith@yahoo.com         11-JUL-18
+       439 Isabella             Lopez                (738) 809-7512  isabella.lopez@gmail.com       18-DEC-23
+       440 Jack                 Jackson              (489) 424-8994  jack.jackson@gmail.com         28-APR-22
+       441 Jack                 Hernandez            (332) 864-2480  jack.hernandez@libmail.org     05-NOV-24
+       442 Grace                Perez                (820) 993-2646  grace.perez@libmail.org        02-MAR-19
+       443 Mason                Smith                (147) 432-1919  mason.smith@outlook.com        05-JUL-20
+       444 Ethan                Jones                (350) 643-7751  ethan.jones@yahoo.com          11-MAR-19
+       445 Olivia               Lee                  (991) 491-4945  olivia.lee@libmail.org         22-MAY-24
+       446 Ava                  Davis                (572) 753-5161  ava.davis@libmail.org          15-OCT-19
+       447 Emma                 Thomas               (394) 793-9955  emma.thomas@yahoo.com          08-JUL-18
+
+  MEMBERID FIRSTNAME            LASTNAME             PHONE           EMAIL                          MEMBERSHI
+---------- -------------------- -------------------- --------------- ------------------------------ ---------
+       448 Logan                Martin               (406) 754-7951  logan.martin@outlook.com       13-MAR-21
+       449 Mason                Miller               (493) 973-8916  mason.miller@gmail.com         30-AUG-19
+       450 Evelyn               Gonzalez             (688) 402-5837  evelyn.gonzalez@gmail.com      04-NOV-24
+
+50 rows selected. 
+
+Displaying: Staff Table
+
+   STAFFID FIRSTNAME            LASTNAME             JOBTITLE                 SALARY STARTDATE ENDDATE  
+---------- -------------------- -------------------- -------------------- ---------- --------- ---------
+       201 Casey                Len                  Archivist                 30750 01-JAN-23          
+       202 Rava                 Joy                  Assistant                 31500 02-JAN-23          
+       203 Gred                 Smith                Technician                32250 03-JAN-23          
+       204 Rogger               Tang                 Manager                   33000 04-JAN-23          
+       205 Lucky                Steven               Librarian                 33750 05-JAN-23 06-JAN-24
+       206 Randy                Camble               Archivist                 34500 06-JAN-23          
+       207 Jarry                Best                 Assistant                 35250 07-JAN-23          
+       208 Timmy                Jan                  Technician                36000 08-JAN-23          
+       209 Lorey                Govert               Manager                   36750 09-JAN-23          
+       210 Thomas               Evens                Librarian                 37500 10-JAN-23 11-JAN-24
+       211 Even                 Lester               Archivist                 38250 11-JAN-23          
+       212 Shery                Stevens              Assistant                 39000 12-JAN-23          
+       213 Jaxon                Smite                Technician                39750 13-JAN-23          
+       214 Lord                 Vader                Manager                   40500 14-JAN-23          
+       215 Timmy                Robbers              Librarian                 41250 15-JAN-23 16-JAN-24
+       216 Greg                 Ranner               Archivist                 42000 16-JAN-23          
+       217 Sam                  Burbary              Assistant                 42750 17-JAN-23          
+       218 Samantha             Winny                Technician                43500 18-JAN-23          
+       219 Dean                 Winchester           Manager                   44250 19-JAN-23          
+       220 Sam                  Winchester           Librarian                 45000 20-JAN-23 21-JAN-24
+
+20 rows selected. 
+
+Displaying: Reservations Table
+
+RESERVATIONID   MEMBERID     BOOKID BORROWDAT DUEDATE   CHECKOUTD
+------------- ---------- ---------- --------- --------- ---------
+         1001        401       5000 17-OCT-23 25-APR-22          
+         1002        402       5001 26-JAN-22 30-JAN-24          
+         1003        403       5002 09-OCT-22 08-SEP-22          
+         1004        404       5003 17-AUG-22 23-MAY-22          
+         1005        405       5004 25-JAN-24 15-APR-22          
+         1006        406       5005 24-NOV-23 29-JAN-24          
+         1007        407       5006 13-JUL-23 31-MAR-22          
+         1008        408       5007 28-AUG-23 09-MAR-23          
+         1009        409       5008 02-FEB-22 31-JAN-22          
+         1010        410       5009 06-APR-22 12-AUG-22          
+         1011        411       5010 27-AUG-22 02-JUN-23 09-SEP-23
+         1012        412       5011 28-JAN-22 29-JUL-23 23-JUL-22
+         1013        413       5012 04-JAN-24 28-OCT-23 20-DEC-23
+         1014        414       5013 13-JUL-23 06-MAR-23 14-AUG-22
+         1015        415       5014 05-APR-23 27-AUG-23 12-OCT-22
+         1016        416       5015 08-APR-24 09-JUN-24 07-JAN-22
+         1017        417       5016 17-FEB-24 05-APR-24 13-JUN-22
+         1018        418       5017 16-DEC-23 09-MAR-23 15-DEC-22
+         1019        419       5018 12-OCT-22 09-JUN-22 09-AUG-22
+         1020        420       5019 21-FEB-24 11-DEC-22 15-APR-22
+         1021        421       5020 05-APR-22 25-JAN-23 10-APR-22
+         1022        422       5021 03-JAN-23 17-MAY-24 19-DEC-22
+         1023        423       5022 11-SEP-23 28-SEP-22 06-APR-24
+         1024        424       5023 14-FEB-22 18-JAN-24 16-APR-23
+         1025        425       5024 04-JUL-23 08-MAY-22 23-JAN-23
+         1026        426       5025 22-MAR-22 20-JUL-23 28-OCT-22
+         1027        427       5026 29-APR-24 06-OCT-23 26-SEP-23
+         1028        428       5027 01-JUN-24 06-JAN-23 15-AUG-23
+         1029        429       5028 16-JUL-22 23-DEC-23 13-MAR-22
+         1030        430       5029 16-FEB-22 09-NOV-23 22-AUG-22
+         1031        431       5030 02-MAR-24 24-OCT-22 23-MAR-22
+         1032        432       5031 25-MAY-24 27-AUG-22 06-JUN-24
+         1033        433       5032 14-APR-22 25-JAN-23 12-OCT-22
+         1034        434       5033 10-APR-23 13-OCT-23 04-MAY-24
+         1035        435       5034 09-JAN-23 16-JUN-22 15-JAN-23
+         1036        436       5035 30-DEC-22 03-AUG-22 18-NOV-23
+         1037        437       5036 01-OCT-22 20-DEC-23 01-DEC-23
+         1038        438       5037 26-OCT-23 15-MAR-22 16-SEP-23
+         1039        439       5038 13-OCT-23 25-JUN-22 01-JUL-23
+         1040        440       5039 17-JAN-24 08-SEP-22 17-JUN-22
+         1041        441       5040 19-APR-23 24-JAN-23 04-OCT-22
+         1042        442       5041 18-OCT-23 06-DEC-23 25-JUL-23
+         1043        443       5042 13-AUG-22 03-DEC-23 29-NOV-22
+         1044        444       5043 13-MAY-24 26-FEB-24 05-MAR-24
+         1045        445       5044 27-FEB-22 23-AUG-22 21-APR-24
+         1046        446       5045 02-FEB-22 04-APR-24 20-NOV-22
+         1047        447       5046 15-FEB-23 02-OCT-22 09-MAR-22
+
+RESERVATIONID   MEMBERID     BOOKID BORROWDAT DUEDATE   CHECKOUTD
+------------- ---------- ---------- --------- --------- ---------
+         1048        448       5047 05-AUG-22 04-AUG-23 16-JUN-24
+         1049        449       5048 06-JAN-24 19-NOV-22 06-AUG-22
+         1050        450       5049 03-NOV-23 27-MAY-23 10-FEB-23
+
+50 rows selected. 
+
+Displaying: Borrowing Table
+
+BORROWINGID   MEMBERID     COPYID RESERVATI DUEDATE   RETURNDAT I    STAFFID
+----------- ---------- ---------- --------- --------- --------- - ----------
+       7001        402       6002 21-OCT-23 15-APR-23 27-MAY-22 N        201
+       7002        403       6003 29-SEP-22 23-MAY-22 10-SEP-22 N        202
+       7003        404       6004 02-FEB-24 29-JUL-23 06-JUL-23 N        203
+       7004        405       6005 27-SEP-22 04-FEB-24           Y        204
+       7005        406       6006 22-AUG-23 15-MAR-23 21-AUG-23 N        205
+       7006        407       6007 13-FEB-23 06-JAN-23 13-AUG-22 N        206
+       7007        408       6008 22-MAY-22 06-JUN-23 21-MAY-23 N        207
+       7008        409       6009 11-AUG-24 25-AUG-24 25-AUG-24 N        201
+       7009        410       6010 18-FEB-22 31-MAY-24 23-APR-22 N        209
+       7010        411       6011 06-JUN-22 05-OCT-23 13-JUN-22 N        210
+       7011        412       6012 22-MAR-24 28-NOV-23 09-MAR-23 N        201
+       7012        413       6013 03-SEP-23 07-MAR-22           Y        202
+       7013        414       6014 30-JAN-23 26-JAN-23 03-SEP-23 N        203
+       7014        415       6015 25-APR-23 26-JUN-23 15-SEP-22 N        204
+       7015        416       6016 21-JUL-23 31-MAY-24 12-JAN-22 N        205
+       7016        417       6017 28-NOV-23 09-JAN-24           Y        206
+       7017        418       6018 28-APR-22 30-NOV-23 04-JUL-23 N        207
+       7018        419       6019 08-FEB-24 01-OCT-22 27-FEB-24 N        208
+       7019        420       6020 19-OCT-23 15-DEC-22 25-APR-22 N        209
+       7020        421       6021 28-OCT-22 22-MAR-23           Y        201
+       7021        422       6022 08-DEC-24 22-DEC-24 19-DEC-24 N        203
+       7022        423       6023 10-JAN-24 15-JUN-24 07-JAN-24 N        202
+       7023        424       6024 27-SEP-22 28-MAY-23 20-FEB-24 N        203
+       7024        425       6025 02-JUL-22 04-JUN-23           Y        204
+       7025        426       6026 19-APR-22 10-JUN-24 03-OCT-23 N        205
+       7026        427       6027 02-NOV-22 11-MAY-24 17-OCT-23 N        206
+       7027        428       6028 04-JUN-23 16-SEP-23 23-JUL-22 N        207
+       7028        429       6029 06-JUN-22 18-JAN-23 20-FEB-24 N        208
+       7029        430       6030 15-JUN-22 07-JUL-23 08-MAR-24 N        209
+       7030        431       6031 28-JUN-23 01-JAN-22 06-SEP-23 N        201
+       7031        432       6032 28-NOV-22 16-MAY-23 20-JAN-22 N        201
+       7032        433       6033 07-APR-25 21-APR-25 15-APR-25 N        202
+       7033        434       6034 01-MAY-24 06-APR-24 11-NOV-22 N        203
+       7034        435       6035 03-SEP-22 01-MAR-22 04-SEP-22 N        204
+       7035        436       6036 18-JUN-24 04-AUG-23 22-MAR-22 N        205
+       7036        437       6037 29-MAR-22 20-JAN-24 13-MAY-23 N        206
+       7037        438       6038 15-APR-24 12-MAR-22 18-FEB-24 N        207
+       7038        439       6039 30-JUN-23 24-FEB-24 09-MAY-22 N        208
+       7039        440       6040 12-MAY-22 07-NOV-23 02-MAY-23 N        209
+       7040        441       6041 17-JUL-23 19-JUN-22 29-SEP-22 N        201
+       7041        442       6042 25-JUN-23 12-JUN-24 14-SEP-23 N        201
+       7042        443       6043 10-MAR-23 05-AUG-22 07-JUL-23 N        202
+       7043        444       6044 13-FEB-24 18-JAN-24 08-DEC-23 N        203
+       7044        445       6045 25-JUL-22 01-JAN-24 16-NOV-22 N        204
+       7045        446       6046 13-FEB-23 19-NOV-23 28-OCT-23 N        205
+       7046        447       6047 18-JAN-23 25-MAR-23 14-JUN-23 N        206
+       7047        448       6048 08-APR-23 04-MAY-22 11-SEP-22 N        207
+
+BORROWINGID   MEMBERID     COPYID RESERVATI DUEDATE   RETURNDAT I    STAFFID
+----------- ---------- ---------- --------- --------- --------- - ----------
+       7048        449       6049 19-AUG-22 07-MAR-22 13-DEC-22 N        208
+       7049        450       6050 22-JAN-22 26-AUG-23 22-JUL-23 N        209
+
+49 rows selected. 
+
+Displaying: BorrowingStaff Table
+
+   STAFFID BORROWINGID ACTIONTYPE ACTIONDAT
+---------- ----------- ---------- ---------
+       201        7001 Returned   25-AUG-22
+       202        7002 Renewed    28-AUG-23
+       203        7003 Issued     17-AUG-22
+       204        7004 Returned   12-JAN-22
+       205        7005 Renewed    19-MAR-22
+       206        7006 Issued     01-JAN-24
+       207        7007 Returned   16-OCT-23
+       208        7008 Renewed    10-MAR-22
+       209        7009 Issued     01-SEP-22
+       210        7010 Returned   21-MAR-22
+       211        7011 Renewed    13-FEB-22
+       212        7012 Issued     11-JUN-24
+       213        7013 Returned   18-DEC-22
+       214        7014 Renewed    28-MAR-22
+       215        7015 Issued     26-JUN-23
+       216        7016 Returned   17-SEP-22
+       217        7017 Renewed    30-OCT-22
+       218        7018 Issued     05-DEC-23
+       219        7019 Returned   01-JUN-23
+       201        7020 Renewed    28-AUG-22
+       201        7021 Issued     28-JUL-23
+       202        7022 Returned   07-JUN-22
+       203        7023 Renewed    03-FEB-24
+       204        7024 Issued     01-SEP-23
+       205        7025 Returned   08-SEP-23
+       206        7026 Renewed    26-MAY-23
+       207        7027 Issued     03-OCT-22
+       208        7028 Returned   11-APR-24
+       209        7029 Renewed    29-MAY-23
+       210        7030 Issued     06-MAY-24
+       211        7031 Returned   24-MAR-23
+       212        7032 Renewed    15-AUG-22
+       213        7033 Issued     10-MAY-22
+       214        7034 Returned   14-MAY-22
+       215        7035 Renewed    11-DEC-23
+       216        7036 Issued     23-APR-23
+       217        7037 Returned   04-FEB-23
+       218        7038 Renewed    17-APR-23
+       219        7039 Issued     05-APR-23
+       201        7040 Returned   03-JUN-23
+       201        7041 Renewed    14-JUL-24
+       202        7042 Issued     28-FEB-24
+       203        7043 Returned   09-APR-22
+       204        7044 Renewed    04-JAN-24
+       205        7045 Issued     16-DEC-23
+       206        7046 Returned   09-DEC-23
+       207        7047 Renewed    28-MAY-22
+
+   STAFFID BORROWINGID ACTIONTYPE ACTIONDAT
+---------- ----------- ---------- ---------
+       208        7048 Issued     21-APR-22
+       209        7049 Returned   07-APR-23
+
+49 rows selected. 
+
+Displaying: Member Borrowing History
+
+ Member ID Member Name          Book Title                     Category                       Borrowing  Date Reserved
+---------- -------------------- ------------------------------ ------------------------------ ---------- ------------------
+Due Date           Late Return Date        Return Statu Handled By      
+------------------ ---- ------------------ ------------ ----------------
+       433     Logan Lopez      The Sun Also Rises             Self-Help And Wellness               7032 07-APR-25          
+21-APR-25          N    15-APR-25          Returned     Shery Stevens   
+
+       422       Mia Martinez   A Tale of Two Cities           Technology And Coding                7021 08-DEC-24          
+22-DEC-24          N    19-DEC-24          Returned     Casey Len       
+
+       409    Olivia Garcia     Crime and Punishment           Philosophy And Ethics                7008 11-AUG-24          
+25-AUG-24          N    25-AUG-24          Returned     Timmy Jan       
+
+       436      Jack Perez      The Road                       Technology And Coding                7035 18-JUN-24          
+04-AUG-23          N    22-MAR-22          Returned     Timmy Robbers   
+
+       434       Mia Miller     Of Mice and Men                Psychology And Behavior              7033 01-MAY-24          
+06-APR-24          N    11-NOV-22          Returned     Jaxon Smite     
+
+       438    Amelia Smith      The Bell Jar                   Fantasy Fiction                      7037 15-APR-24          
+12-MAR-22          N    18-FEB-24          Returned     Sam Burbary     
+
+       412  Isabella Perez      Animal Farm                    Self-Help And Wellness               7011 22-MAR-24          
+28-NOV-23          N    09-MAR-23          Returned     Even Lester     
+
+       444     Ethan Jones      A Portrait of the Artist as a  Philosophy And Ethics                7043 13-FEB-24          
+18-JAN-24          N    08-DEC-23          Returned     Gred Smith      
+
+       419    Elijah Martin     Great Expectations             Self-Help And Wellness               7018 08-FEB-24          
+01-OCT-22          N    27-FEB-24          Returned     Samant Winny    
+
+       404      Liam Martinez   Moby Dick                      Non-Fiction                          7003 02-FEB-24          
+29-JUL-23          N    06-JUL-23          Returned     Gred Smith      
+
+       423  Benjamin Thomas     The Scarlet Letter             Philosophy And Ethics                7022 10-JAN-24          
+15-JUN-24          N    07-JAN-24          Returned     Rava Joy        
+
+       417     Lucas Thompson   The Clean Coder                Fantasy Fiction                      7016 28-NOV-23          
+09-JAN-24          Y    Not Avail.         Not Returned Greg Ranner     
+
+       402  Benjamin Hernandez  To Kill a Mockingbird          Philosophy And Ethics                7001 21-OCT-23          
+15-APR-23          N    27-MAY-22          Returned     Casey Len       
+
+       420     Ethan Lopez      The Hobbit                     Psychology And Behavior              7019 19-OCT-23          
+15-DEC-22          N    25-APR-22          Returned     Dean Wincheste  
+
+       413     Lucas Perez      Sense and Sensibility          Psychology And Behavior              7012 03-SEP-23          
+07-MAR-22          Y    Not Avail.         Not Returned Shery Stevens   
+
+
+ Member ID Member Name          Book Title                     Category                       Borrowing  Date Reserved
+---------- -------------------- ------------------------------ ------------------------------ ---------- ------------------
+Due Date           Late Return Date        Return Statu Handled By      
+------------------ ---- ------------------ ------------ ----------------
+       406    Olivia Davis      Brave New World                Psychology And Behavior              7005 22-AUG-23          
+15-MAR-23          N    21-AUG-23          Returned     Lucky Steven    
+
+       416 Sebastian Johnson    The Brothers Karamazov         Philosophy And Ethics                7015 21-JUL-23          
+31-MAY-24          N    12-JAN-22          Returned     Timmy Robbers   
+
+       441      Jack Hernandez  The Trial                      Psychology And Behavior              7040 17-JUL-23          
+19-JUN-22          N    29-SEP-22          Returned     Casey Len       
+
+       439  Isabella Lopez      The Stranger                   Non-Fiction                          7038 30-JUN-23          
+24-FEB-24          N    09-MAY-22          Returned     Samant Winny    
+
+       431    Harper Martinez   Slaughterhouse-Five            Fantasy Fiction                      7030 28-JUN-23          
+01-JAN-22          N    06-SEP-23          Returned     Thomas Evens    
+
+       442     Grace Perez      Ulysses                        Fiction                              7041 25-JUN-23          
+12-JUN-24          N    14-SEP-23          Returned     Casey Len       
+
+       428      Ella Jones      The Divine Comedy              Fiction                              7027 04-JUN-23          
+16-SEP-23          N    23-JUL-22          Returned     Jarry Best      
+
+       415  Scarlett Wilson     Jane Eyre                      Technology And Coding                7014 25-APR-23          
+26-JUN-23          N    15-SEP-22          Returned     Lord Vader      
+
+       448     Logan Martin     Around the World in 80 Days    Psychology And Behavior              7047 08-APR-23          
+04-MAY-22          N    11-SEP-22          Returned     Jarry Best      
+
+       443     Mason Smith      Dubliners                      Technology And Coding                7042 10-MAR-23          
+05-AUG-22          N    07-JUL-23          Returned     Rava Joy        
+
+       446       Ava Davis      The War of the Worlds          Non-Fiction                          7045 13-FEB-23          
+19-NOV-23          N    28-OCT-23          Returned     Lucky Steven    
+
+       407 Charlotte Thomas     War and Peace                  Fiction                              7006 13-FEB-23          
+06-JAN-23          N    13-AUG-22          Returned     Randy Camble    
+
+       414     Mason Lee        Fahrenheit 451                 Fiction                              7013 30-JAN-23          
+26-JAN-23          N    03-SEP-23          Returned     Jaxon Smite     
+
+       447      Emma Thomas     Journey to the Center of the E Self-Help And Wellness               7046 18-JAN-23          
+25-MAR-23          N    14-JUN-23          Returned     Randy Camble    
+
+       432    Evelyn Thompson   Catch-22                       Non-Fiction                          7031 28-NOV-22          
+16-MAY-23          N    20-JAN-22          Returned     Even Lester     
+
+
+ Member ID Member Name          Book Title                     Category                       Borrowing  Date Reserved
+---------- -------------------- ------------------------------ ------------------------------ ---------- ------------------
+Due Date           Late Return Date        Return Statu Handled By      
+------------------ ---- ------------------ ------------ ----------------
+       427  Benjamin Anderson   The Iliad                      Psychology And Behavior              7026 02-NOV-22          
+11-MAY-24          N    17-OCT-23          Returned     Randy Camble    
+
+       421  Scarlett Taylor     Lord of the Flies              Fiction                              7020 28-OCT-22          
+22-MAR-23          Y    Not Avail.         Not Returned Casey Len       
+
+       403    Evelyn Hernandez  The Great Gatsby               Fantasy Fiction                      7002 29-SEP-22          
+23-MAY-22          N    10-SEP-22          Returned     Rava Joy        
+
+       424     James Perez      Frankenstein                   Fantasy Fiction                      7023 27-SEP-22          
+28-MAY-23          N    20-FEB-24          Returned     Gred Smith      
+
+       405    Olivia Martin     Pride and Prejudice            Self-Help And Wellness               7004 27-SEP-22          
+04-FEB-24          Y    Not Avail.         Not Returned Rogger Tang     
+
+       435     Ethan Johnson    The Old Man and the Sea        Fiction                              7034 03-SEP-22          
+01-MAR-22          N    04-SEP-22          Returned     Lord Vader      
+
+       449     Mason Miller     20,000 Leagues Under the Sea   Fiction                              7048 19-AUG-22          
+07-MAR-22          N    13-DEC-22          Returned     Timmy Jan       
+
+       445    Olivia Lee        The Time Machine               Fantasy Fiction                      7044 25-JUL-22          
+01-JAN-24          N    16-NOV-22          Returned     Rogger Tang     
+
+       425       Ava Hernandez  Dracula                        Non-Fiction                          7024 02-JUL-22          
+04-JUN-23          Y    Not Avail.         Not Returned Rogger Tang     
+
+       430 Sebastian Moore      The Picture of Dorian Gray     Philosophy And Ethics                7029 15-JUN-22          
+07-JUL-23          N    08-MAR-24          Returned     Lorey Govert    
+
+       429     James Taylor     Les Misérables                 Technology And Coding                7028 06-JUN-22          
+18-JAN-23          N    20-FEB-24          Returned     Timmy Jan       
+
+       411  Scarlett Hernandez  Emma                           Non-Fiction                          7010 06-JUN-22          
+05-OCT-23          N    13-JUN-22          Returned     Thomas Evens    
+
+       408      Liam Lee        The Catcher in the Rye         Technology And Coding                7007 22-MAY-22          
+06-JUN-23          N    21-MAY-23          Returned     Jarry Best      
+
+       440      Jack Jackson    The Metamorphosis              Self-Help And Wellness               7039 12-MAY-22          
+07-NOV-23          N    02-MAY-23          Returned     Dean Wincheste  
+
+       418     Grace Sanchez    Wuthering Heights              Non-Fiction                          7017 28-APR-22          
+30-NOV-23          N    04-JUL-23          Returned     Sam Burbary     
+
+
+ Member ID Member Name          Book Title                     Category                       Borrowing  Date Reserved
+---------- -------------------- ------------------------------ ------------------------------ ---------- ------------------
+Due Date           Late Return Date        Return Statu Handled By      
+------------------ ---- ------------------ ------------ ----------------
+       426      Ella Lee        The Odyssey                    Self-Help And Wellness               7025 19-APR-22          
+10-JUN-24          N    03-OCT-23          Returned     Lucky Steven    
+
+       437    Evelyn Lopez      No Country for Old Men         Philosophy And Ethics                7036 29-MAR-22          
+20-JAN-24          N    13-MAY-23          Returned     Greg Ranner     
+
+       410    Amelia White      The Pragmatic Programmer       Fantasy Fiction                      7009 18-FEB-22          
+31-MAY-24          N    23-APR-22          Returned     Lorey Govert    
+
+       450    Evelyn Gonzalez   1984                           Fiction                              7049 22-JAN-22          
+26-AUG-23          N    22-JUL-23          Returned     Lorey Govert    
+
+
+49 rows selected. 
+
+Displaying: Member Activity Summary
+
+ Member ID Member Name                                                                   Total Borrowed Overdue Count Active Loans
+---------- ----------------------------------------------------------------------------- -------------- ------------- ------------
+       402  Benjamin Hernandez                                                                        1             1            0
+       403    Evelyn Hernandez                                                                        1             1            0
+       404      Liam Martinez                                                                         1             1            0
+       405    Olivia Martin                                                                           1             1            1
+       406    Olivia Davis                                                                            1             1            0
+       407 Charlotte Thomas                                                                           1             1            0
+       408      Liam Lee                                                                              1             1            0
+       409    Olivia Garcia                                                                           1             1            0
+       410    Amelia White                                                                            1             1            0
+       411  Scarlett Hernandez                                                                        1             1            0
+       412  Isabella Perez                                                                            1             1            0
+       413     Lucas Perez                                                                            1             1            1
+       414     Mason Lee                                                                              1             1            0
+       415  Scarlett Wilson                                                                           1             1            0
+       416 Sebastian Johnson                                                                          1             1            0
+       417     Lucas Thompson                                                                         1             1            1
+       418     Grace Sanchez                                                                          1             1            0
+       419    Elijah Martin                                                                           1             1            0
+       420     Ethan Lopez                                                                            1             1            0
+       421  Scarlett Taylor                                                                           1             1            1
+       422       Mia Martinez                                                                         1             1            0
+       423  Benjamin Thomas                                                                           1             1            0
+       424     James Perez                                                                            1             1            0
+       425       Ava Hernandez                                                                        1             1            1
+       426      Ella Lee                                                                              1             1            0
+       427  Benjamin Anderson                                                                         1             1            0
+       428      Ella Jones                                                                            1             1            0
+       429     James Taylor                                                                           1             1            0
+       430 Sebastian Moore                                                                            1             1            0
+       431    Harper Martinez                                                                         1             1            0
+       432    Evelyn Thompson                                                                         1             1            0
+       433     Logan Lopez                                                                            1             1            0
+       434       Mia Miller                                                                           1             1            0
+       435     Ethan Johnson                                                                          1             1            0
+       436      Jack Perez                                                                            1             1            0
+       437    Evelyn Lopez                                                                            1             1            0
+       438    Amelia Smith                                                                            1             1            0
+       439  Isabella Lopez                                                                            1             1            0
+       440      Jack Jackson                                                                          1             1            0
+       441      Jack Hernandez                                                                        1             1            0
+       442     Grace Perez                                                                            1             1            0
+       443     Mason Smith                                                                            1             1            0
+       444     Ethan Jones                                                                            1             1            0
+       445    Olivia Lee                                                                              1             1            0
+       446       Ava Davis                                                                            1             1            0
+       447      Emma Thomas                                                                           1             1            0
+       448     Logan Martin                                                                           1             1            0
+
+ Member ID Member Name                                                                   Total Borrowed Overdue Count Active Loans
+---------- ----------------------------------------------------------------------------- -------------- ------------- ------------
+       449     Mason Miller                                                                           1             1            0
+       450    Evelyn Gonzalez                                                                         1             1            0
+       401      Emma White                                                                            0             0            1
+
+50 rows selected. 
+
+Displaying: Books By Category
+
+Category                       Total Books Total Borrowings
+------------------------------ ----------- ----------------
+Fiction                                  8                8
+Philosophy And Ethics                    7                7
+Psychology And Behavior                  7                7
+Self-Help And Wellness                   7                7
+Non-Fiction                              7                7
+Fantasy Fiction                          7                7
+Technology And Coding                    7                6
+Mystery                                  0                0
+Art                                      0                0
+Technology                               0                0
+Biography                                0                0
+Science                                  0                0
+Poetry                                   0                0
+Philosophy                               0                0
+Romance                                  0                0
+History                                  0                0
+
+16 rows selected. 
+
+Displaying: Overdue Books
+
+ Member ID Member Name          Book Title                     Due Date           Return Date        Return Statu Days Overdue
+---------- -------------------- ------------------------------ ------------------ ------------------ ------------ ------------
+       405    Olivia Martin     Pride and Prejudice            04-FEB-24              N/A            Not Returned          541
+       417     Lucas Thompson   The Clean Coder                09-JAN-24              N/A            Not Returned          567
+       430 Sebastian Moore      The Picture of Dorian Gray     07-JUL-23          08-MAR-24            Returned            245
+       425       Ava Hernandez  Dracula                        04-JUN-23              N/A            Not Returned          786
+       424     James Perez      Frankenstein                   28-MAY-23          20-FEB-24            Returned            268
+       447      Emma Thomas     Journey to the Center of the E 25-MAR-23          14-JUN-23            Returned             81
+       421  Scarlett Taylor     Lord of the Flies              22-MAR-23              N/A            Not Returned          860
+       406    Olivia Davis      Brave New World                15-MAR-23          21-AUG-23            Returned            159
+       414     Mason Lee        Fahrenheit 451                 26-JAN-23          03-SEP-23            Returned            220
+       429     James Taylor     Les Misérables                 18-JAN-23          20-FEB-24            Returned            398
+       419    Elijah Martin     Great Expectations             01-OCT-22          27-FEB-24            Returned            514
+       443     Mason Smith      Dubliners                      05-AUG-22          07-JUL-23            Returned            336
+       441      Jack Hernandez  The Trial                      19-JUN-22          29-SEP-22            Returned            102
+       403    Evelyn Hernandez  The Great Gatsby               23-MAY-22          10-SEP-22            Returned            110
+       448     Logan Martin     Around the World in 80 Days    04-MAY-22          11-SEP-22            Returned            130
+       438    Amelia Smith      The Bell Jar                   12-MAR-22          18-FEB-24            Returned            708
+       413     Lucas Perez      Sense and Sensibility          07-MAR-22              N/A            Not Returned         1240
+       449     Mason Miller     20,000 Leagues Under the Sea   07-MAR-22          13-DEC-22            Returned            281
+       435     Ethan Johnson    The Old Man and the Sea        01-MAR-22          04-SEP-22            Returned            187
+       431    Harper Martinez   Slaughterhouse-Five            01-JAN-22          06-SEP-23            Returned            613
+
+20 rows selected. 
+
+Displaying: Borrowing and Returns
+
+ Member ID Member Name          Book Title                     Due Date           Return Date        Return Statu Days Overdue Late?
+---------- -------------------- ------------------------------ ------------------ ------------------ ------------ ------------ -----
+       433     Logan Lopez      The Sun Also Rises             21-APR-25          15-APR-25             Returned             0     N
+       422       Mia Martinez   A Tale of Two Cities           22-DEC-24          19-DEC-24             Returned             0     N
+       409    Olivia Garcia     Crime and Punishment           25-AUG-24          25-AUG-24             Returned             0     N
+       423  Benjamin Thomas     The Scarlet Letter             15-JUN-24          07-JAN-24             Returned             0     N
+       442     Grace Perez      Ulysses                        12-JUN-24          14-SEP-23             Returned             0     N
+       426      Ella Lee        The Odyssey                    10-JUN-24          03-OCT-23             Returned             0     N
+       416 Sebastian Johnson    The Brothers Karamazov         31-MAY-24          12-JAN-22             Returned             0     N
+       410    Amelia White      The Pragmatic Programmer       31-MAY-24          23-APR-22             Returned             0     N
+       427  Benjamin Anderson   The Iliad                      11-MAY-24          17-OCT-23             Returned             0     N
+       434       Mia Miller     Of Mice and Men                06-APR-24          11-NOV-22             Returned             0     N
+       439  Isabella Lopez      The Stranger                   24-FEB-24          09-MAY-22             Returned             0     N
+       405    Olivia Martin     Pride and Prejudice            04-FEB-24              N/A            Not Returned          541     Y
+       437    Evelyn Lopez      No Country for Old Men         20-JAN-24          13-MAY-23             Returned             0     N
+       444     Ethan Jones      A Portrait of the Artist as a  18-JAN-24          08-DEC-23             Returned             0     N
+       417     Lucas Thompson   The Clean Coder                09-JAN-24              N/A            Not Returned          567     Y
+       445    Olivia Lee        The Time Machine               01-JAN-24          16-NOV-22             Returned             0     N
+       418     Grace Sanchez    Wuthering Heights              30-NOV-23          04-JUL-23             Returned             0     N
+       412  Isabella Perez      Animal Farm                    28-NOV-23          09-MAR-23             Returned             0     N
+       446       Ava Davis      The War of the Worlds          19-NOV-23          28-OCT-23             Returned             0     N
+       440      Jack Jackson    The Metamorphosis              07-NOV-23          02-MAY-23             Returned             0     N
+       411  Scarlett Hernandez  Emma                           05-OCT-23          13-JUN-22             Returned             0     N
+       428      Ella Jones      The Divine Comedy              16-SEP-23          23-JUL-22             Returned             0     N
+       450    Evelyn Gonzalez   1984                           26-AUG-23          22-JUL-23             Returned             0     N
+       436      Jack Perez      The Road                       04-AUG-23          22-MAR-22             Returned             0     N
+       404      Liam Martinez   Moby Dick                      29-JUL-23          06-JUL-23             Returned             0     N
+       430 Sebastian Moore      The Picture of Dorian Gray     07-JUL-23          08-MAR-24             Returned           245     Y
+       415  Scarlett Wilson     Jane Eyre                      26-JUN-23          15-SEP-22             Returned             0     N
+       408      Liam Lee        The Catcher in the Rye         06-JUN-23          21-MAY-23             Returned             0     N
+       425       Ava Hernandez  Dracula                        04-JUN-23              N/A            Not Returned          786     Y
+       424     James Perez      Frankenstein                   28-MAY-23          20-FEB-24             Returned           268     Y
+       432    Evelyn Thompson   Catch-22                       16-MAY-23          20-JAN-22             Returned             0     N
+       402  Benjamin Hernandez  To Kill a Mockingbird          15-APR-23          27-MAY-22             Returned             0     N
+       447      Emma Thomas     Journey to the Center of the E 25-MAR-23          14-JUN-23             Returned            81     Y
+       421  Scarlett Taylor     Lord of the Flies              22-MAR-23              N/A            Not Returned          860     Y
+       406    Olivia Davis      Brave New World                15-MAR-23          21-AUG-23             Returned           159     Y
+       414     Mason Lee        Fahrenheit 451                 26-JAN-23          03-SEP-23             Returned           220     Y
+       429     James Taylor     Les Misérables                 18-JAN-23          20-FEB-24             Returned           398     Y
+       407 Charlotte Thomas     War and Peace                  06-JAN-23          13-AUG-22             Returned             0     N
+       420     Ethan Lopez      The Hobbit                     15-DEC-22          25-APR-22             Returned             0     N
+       419    Elijah Martin     Great Expectations             01-OCT-22          27-FEB-24             Returned           514     Y
+       443     Mason Smith      Dubliners                      05-AUG-22          07-JUL-23             Returned           336     Y
+       441      Jack Hernandez  The Trial                      19-JUN-22          29-SEP-22             Returned           102     Y
+       403    Evelyn Hernandez  The Great Gatsby               23-MAY-22          10-SEP-22             Returned           110     Y
+       448     Logan Martin     Around the World in 80 Days    04-MAY-22          11-SEP-22             Returned           130     Y
+       438    Amelia Smith      The Bell Jar                   12-MAR-22          18-FEB-24             Returned           708     Y
+       413     Lucas Perez      Sense and Sensibility          07-MAR-22              N/A            Not Returned         1240     Y
+       449     Mason Miller     20,000 Leagues Under the Sea   07-MAR-22          13-DEC-22             Returned           281     Y
+
+ Member ID Member Name          Book Title                     Due Date           Return Date        Return Statu Days Overdue Late?
+---------- -------------------- ------------------------------ ------------------ ------------------ ------------ ------------ -----
+       435     Ethan Johnson    The Old Man and the Sea        01-MAR-22          04-SEP-22             Returned           187     Y
+       431    Harper Martinez   Slaughterhouse-Five            01-JAN-22          06-SEP-23             Returned           613     Y
+
+49 rows selected. 
+
+Displaying: Who Returned Books Late
+
+ Member ID Member Name          Book Title                               Due Date           Return Date        Return Status
+---------- -------------------- ---------------------------------------- ------------------ ------------------ -------------
+ Days Late
+----------
+       430 Sebastian Moore      The Picture of Dorian Gray               07-JUL-23          08-MAR-24          Returned Late 
+       245
+
+       419    Elijah Martin     Great Expectations                       01-OCT-22          27-FEB-24          Returned Late 
+       514
+
+       424     James Perez      Frankenstein                             28-MAY-23          20-FEB-24          Returned Late 
+       268
+
+       429     James Taylor     Les Misérables                           18-JAN-23          20-FEB-24          Returned Late 
+       398
+
+       438    Amelia Smith      The Bell Jar                             12-MAR-22          18-FEB-24          Returned Late 
+       708
+
+       431    Harper Martinez   Slaughterhouse-Five                      01-JAN-22          06-SEP-23          Returned Late 
+       613
+
+       414     Mason Lee        Fahrenheit 451                           26-JAN-23          03-SEP-23          Returned Late 
+       220
+
+       406    Olivia Davis      Brave New World                          15-MAR-23          21-AUG-23          Returned Late 
+       159
+
+       443     Mason Smith      Dubliners                                05-AUG-22          07-JUL-23          Returned Late 
+       336
+
+       447      Emma Thomas     Journey to the Center of the Earth       25-MAR-23          14-JUN-23          Returned Late 
+        81
+
+       449     Mason Miller     20,000 Leagues Under the Sea             07-MAR-22          13-DEC-22          Returned Late 
+       281
+
+       441      Jack Hernandez  The Trial                                19-JUN-22          29-SEP-22          Returned Late 
+       102
+
+       448     Logan Martin     Around the World in 80 Days              04-MAY-22          11-SEP-22          Returned Late 
+       130
+
+       403    Evelyn Hernandez  The Great Gatsby                         23-MAY-22          10-SEP-22          Returned Late 
+       110
+
+       435     Ethan Johnson    The Old Man and the Sea                  01-MAR-22          04-SEP-22          Returned Late 
+       187
+
+
+15 rows selected. 
+
+Displaying: Active Reservations
+
+ Member ID Member Name          Book Title                     Date Reserved      Due Date           Checkout Date     
+---------- -------------------- ------------------------------ ------------------ ------------------ ------------------
+       402  Benjamin Hernandez  Clean Code                     26-JAN-22          30-JAN-24          Not Checked Out   
+       409    Olivia Garcia     The Catcher in the Rye         02-FEB-22          31-JAN-22          Not Checked Out   
+       410    Amelia White      Crime and Punishment           06-APR-22          12-AUG-22          Not Checked Out   
+       404      Liam Martinez   The Great Gatsby               17-AUG-22          23-MAY-22          Not Checked Out   
+       403    Evelyn Hernandez  To Kill a Mockingbird          09-OCT-22          08-SEP-22          Not Checked Out   
+       407 Charlotte Thomas     Brave New World                13-JUL-23          31-MAR-22          Not Checked Out   
+       408      Liam Lee        War and Peace                  28-AUG-23          09-MAR-23          Not Checked Out   
+       401      Emma White      1984                           17-OCT-23          25-APR-22          Not Checked Out   
+       406    Olivia Davis      Pride and Prejudice            24-NOV-23          29-JAN-24          Not Checked Out   
+       405    Olivia Martin     Moby Dick                      25-JAN-24          15-APR-22          Not Checked Out   
+
+10 rows selected. 
+
+Displaying: What Staff Issued Borrowings
+
+  Staff ID Staff Name                                                        Total Issued
+---------- ----------------------------------------------------------------- ------------
+       201   Casey Len                                                                  1
+       219    Dean Wincheste                                                            1
+       203    Gred Smith                                                                1
+       204  Rogger Tang                                                                 1
+       205   Lucky Steven                                                               1
+       206   Randy Camble                                                               1
+       207   Jarry Best                                                                 1
+       208   Timmy Jan                                                                  1
+       209   Lorey Govert                                                               1
+       210  Thomas Evens                                                                1
+       212   Shery Stevens                                                              1
+       213   Jaxon Smite                                                                1
+       215   Timmy Robbers                                                              1
+       216    Greg Ranner                                                               1
+       218 Samanth Winny                                                                1
+       202    Rava Joy                                                                  1
+
+16 rows selected. 
+
+Displaying: Staff Borrowings Log
+
+Borrowing  Late Book Title                     Member ID Borrower Name        Handled  Action Ty Action Date       
+---------- ---- ------------------------------ --------- -------------------- -------- --------- ------------------
+      7041    N Ulysses                              442     Grace Perez         Casey   Renewed 14-JUL-24         
+      7012    Y Sense and Sensibility                413     Lucas Perez         Shery    Issued 11-JUN-24         
+      7030    N Slaughterhouse-Five                  431    Harper Martinez     Thomas    Issued 06-MAY-24         
+      7028    N Les Misérables                       429     James Taylor        Timmy  Returned 11-APR-24         
+      7042    N Dubliners                            443     Mason Smith          Rava    Issued 28-FEB-24         
+      7023    N Frankenstein                         424     James Perez          Gred   Renewed 03-FEB-24         
+      7044    N The Time Machine                     445    Olivia Lee          Rogger   Renewed 04-JAN-24         
+      7006    N War and Peace                        407 Charlotte Thomas        Randy    Issued 01-JAN-24         
+      7045    N The War of the Worlds                446       Ava Davis         Lucky    Issued 16-DEC-23         
+      7035    N The Road                             436      Jack Perez         Timmy   Renewed 11-DEC-23         
+      7046    N Journey to the Center of the E       447      Emma Thomas        Randy  Returned 09-DEC-23         
+      7018    N Great Expectations                   419    Elijah Martin     Samantha    Issued 05-DEC-23         
+      7007    N The Catcher in the Rye               408      Liam Lee           Jarry  Returned 16-OCT-23         
+      7025    N The Odyssey                          426      Ella Lee           Lucky  Returned 08-SEP-23         
+      7024    Y Dracula                              425       Ava Hernandez    Rogger    Issued 01-SEP-23         
+      7002    N The Great Gatsby                     403    Evelyn Hernandez      Rava   Renewed 28-AUG-23         
+      7021    N A Tale of Two Cities                 422       Mia Martinez      Casey    Issued 28-JUL-23         
+      7015    N The Brothers Karamazov               416 Sebastian Johnson       Timmy    Issued 26-JUN-23         
+      7040    N The Trial                            441      Jack Hernandez     Casey  Returned 03-JUN-23         
+      7019    N The Hobbit                           420     Ethan Lopez          Dean  Returned 01-JUN-23         
+      7029    N The Picture of Dorian Gray           430 Sebastian Moore         Lorey   Renewed 29-MAY-23         
+      7026    N The Iliad                            427  Benjamin Anderson      Randy   Renewed 26-MAY-23         
+      7036    N No Country for Old Men               437    Evelyn Lopez          Greg    Issued 23-APR-23         
+      7038    N The Stranger                         439  Isabella Lopez      Samantha   Renewed 17-APR-23         
+      7049    N 1984                                 450    Evelyn Gonzalez      Lorey  Returned 07-APR-23         
+      7039    N The Metamorphosis                    440      Jack Jackson        Dean    Issued 05-APR-23         
+      7031    N Catch-22                             432    Evelyn Thompson       Even  Returned 24-MAR-23         
+      7037    N The Bell Jar                         438    Amelia Smith           Sam  Returned 04-FEB-23         
+      7013    N Fahrenheit 451                       414     Mason Lee           Jaxon  Returned 18-DEC-22         
+      7017    N Wuthering Heights                    418     Grace Sanchez         Sam   Renewed 30-OCT-22         
+      7027    N The Divine Comedy                    428      Ella Jones         Jarry    Issued 03-OCT-22         
+      7016    Y The Clean Coder                      417     Lucas Thompson       Greg  Returned 17-SEP-22         
+      7009    N The Pragmatic Programmer             410    Amelia White         Lorey    Issued 01-SEP-22         
+      7020    Y Lord of the Flies                    421  Scarlett Taylor        Casey   Renewed 28-AUG-22         
+      7001    N To Kill a Mockingbird                402  Benjamin Hernandez     Casey  Returned 25-AUG-22         
+      7003    N Moby Dick                            404      Liam Martinez       Gred    Issued 17-AUG-22         
+      7032    N The Sun Also Rises                   433     Logan Lopez         Shery   Renewed 15-AUG-22         
+      7022    N The Scarlet Letter                   423  Benjamin Thomas         Rava  Returned 07-JUN-22         
+      7047    N Around the World in 80 Days          448     Logan Martin        Jarry   Renewed 28-MAY-22         
+      7034    N The Old Man and the Sea              435     Ethan Johnson        Lord  Returned 14-MAY-22         
+      7033    N Of Mice and Men                      434       Mia Miller        Jaxon    Issued 10-MAY-22         
+      7048    N 20,000 Leagues Under the Sea         449     Mason Miller        Timmy    Issued 21-APR-22         
+      7043    N A Portrait of the Artist as a        444     Ethan Jones          Gred  Returned 09-APR-22         
+      7014    N Jane Eyre                            415  Scarlett Wilson         Lord   Renewed 28-MAR-22         
+      7010    N Emma                                 411  Scarlett Hernandez    Thomas  Returned 21-MAR-22         
+      7005    N Brave New World                      406    Olivia Davis         Lucky   Renewed 19-MAR-22         
+      7008    N Crime and Punishment                 409    Olivia Garcia        Timmy   Renewed 10-MAR-22         
+
+Borrowing  Late Book Title                     Member ID Borrower Name        Handled  Action Ty Action Date       
+---------- ---- ------------------------------ --------- -------------------- -------- --------- ------------------
+      7011    N Animal Farm                          412  Isabella Perez          Even   Renewed 13-FEB-22         
+      7004    Y Pride and Prejudice                  405    Olivia Martin       Rogger  Returned 12-JAN-22         
+
+49 rows selected. 
+
+Displaying: Top Ten Books Borrowed
+
+Book Title
+------------------------------------------------------------------------------------------------------------------------
+Times Borrowed
+--------------
+1984                                                                                                                     
+             1
+
+To Kill a Mockingbird                                                                                                    
+             1
+
+The Great Gatsby                                                                                                         
+             1
+
+Moby Dick                                                                                                                
+             1
+
+The Pragmatic Programmer                                                                                                 
+             1
+
+Brave New World                                                                                                          
+             1
+
+War and Peace                                                                                                            
+             1
+
+The Catcher in the Rye                                                                                                   
+             1
+
+Crime and Punishment                                                                                                     
+             1
+
+Pride and Prejudice                                                                                                      
+             1
+
+
+10 rows selected. 
+
+Displaying: Books Never Borrowed
+
+Book Title                    
+------------------------------
+Clean Code                    
+
+Displaying: Recent Members Who Borrowed
+
+ Member ID Member Name          Book Title                     Reservation Date  
+---------- -------------------- ------------------------------ ------------------
+       433     Logan Lopez      The Sun Also Rises             07-APR-25         
+       422       Mia Martinez   A Tale of Two Cities           08-DEC-24         
+       409    Olivia Garcia     Crime and Punishment           11-AUG-24         
+
+Displaying: Popular Authors
+
+ Author ID Author Name                               Books Published Total Borrowings
+---------- ----------------------------------------- --------------- ----------------
+       333 Jules Verne                                             4                4
+       313 Charles Dickens                                         4                4
+       331 James Joyce                                             3                3
+       306 Jane Austen                                             3                3
+       325 Ernest Hemingway                                        2                2
+       301 George Orwell                                           2                2
+       319 Homer Simpson                                           2                2
+       310 Fyodor Dostoevsky                                       2                2
+       330 Franz Kafka                                             2                2
+       332 H.G. Wells                                              2                2
+       327 Cormac Mccarthy                                         2                2
+       318 Bram Stoker                                             1                1
+       320 Dante Alighieri                                         1                1
+       321 Victor Hugo                                             1                1
+       322 Oscar Wilde                                             1                1
+       323 Kurt Vonnegut                                           1                1
+       324 Joseph Heller                                           1                1
+       326 John Steinbeck                                          1                1
+       328 Sylvia Plath                                            1                1
+       329 Albert Camus                                            1                1
+       317 Mary Shelley                                            1                1
+       315 Charlotte Bronte                                        1                1
+       314 Ray Bradbury                                            1                1
+       312 Emily Bronte                                            1                1
+       311 Andy Hunt                                               1                1
+       309 J.D. Salinger                                           1                1
+       308 Leo Tolstoy                                             1                1
+       307 Aldous Huxley                                           1                1
+       305 Herman Melville                                         1                1
+       304 F. Scott Fitzgerald                                     1                1
+       303 Harper Lee                                              1                1
+       302 Robert C. Martin                                        1                1
+
+32 rows selected. 
+
+Displaying: Borrowing Details
+
+ Member ID Member Name                               Book Title                               Borrowing Number Date Rese Due Date  I
+---------- ----------------------------------------- ---------------------------------------- ---------------- --------- --------- -
+Return Date        Return Status   
+------------------ ----------------
+       433 Logan Lopez                               The Sun Also Rises                                   7032 07-APR-25 21-APR-25 N
+15-APR-25          Returned On Time
+
+       422 Mia Martinez                              A Tale of Two Cities                                 7021 08-DEC-24 22-DEC-24 N
+19-DEC-24          Returned On Time
+
+       409 Olivia Garcia                             Crime and Punishment                                 7008 11-AUG-24 25-AUG-24 N
+25-AUG-24          Returned On Time
+
+       436 Jack Perez                                The Road                                             7035 18-JUN-24 04-AUG-23 N
+22-MAR-22          Returned On Time
+
+       434 Mia Miller                                Of Mice and Men                                      7033 01-MAY-24 06-APR-24 N
+11-NOV-22          Returned On Time
+
+       438 Amelia Smith                              The Bell Jar                                         7037 15-APR-24 12-MAR-22 N
+18-FEB-24          Returned Late   
+
+       412 Isabella Perez                            Animal Farm                                          7011 22-MAR-24 28-NOV-23 N
+09-MAR-23          Returned On Time
+
+       444 Ethan Jones                               A Portrait of the Artist as a Young Man              7043 13-FEB-24 18-JAN-24 N
+08-DEC-23          Returned On Time
+
+       419 Elijah Martin                             Great Expectations                                   7018 08-FEB-24 01-OCT-22 N
+27-FEB-24          Returned Late   
+
+       404 Liam Martinez                             Moby Dick                                            7003 02-FEB-24 29-JUL-23 N
+06-JUL-23          Returned On Time
+
+       423 Benjamin Thomas                           The Scarlet Letter                                   7022 10-JAN-24 15-JUN-24 N
+07-JAN-24          Returned On Time
+
+       417 Lucas Thompson                            The Clean Coder                                      7016 28-NOV-23 09-JAN-24 Y
+Not Returned       Not Returned    
+
+       402 Benjamin Hernandez                        To Kill a Mockingbird                                7001 21-OCT-23 15-APR-23 N
+27-MAY-22          Returned On Time
+
+       420 Ethan Lopez                               The Hobbit                                           7019 19-OCT-23 15-DEC-22 N
+25-APR-22          Returned On Time
+
+       413 Lucas Perez                               Sense and Sensibility                                7012 03-SEP-23 07-MAR-22 Y
+Not Returned       Not Returned    
+
+
+ Member ID Member Name                               Book Title                               Borrowing Number Date Rese Due Date  I
+---------- ----------------------------------------- ---------------------------------------- ---------------- --------- --------- -
+Return Date        Return Status   
+------------------ ----------------
+       406 Olivia Davis                              Brave New World                                      7005 22-AUG-23 15-MAR-23 N
+21-AUG-23          Returned Late   
+
+       416 Sebastian Johnson                         The Brothers Karamazov                               7015 21-JUL-23 31-MAY-24 N
+12-JAN-22          Returned On Time
+
+       441 Jack Hernandez                            The Trial                                            7040 17-JUL-23 19-JUN-22 N
+29-SEP-22          Returned Late   
+
+       439 Isabella Lopez                            The Stranger                                         7038 30-JUN-23 24-FEB-24 N
+09-MAY-22          Returned On Time
+
+       431 Harper Martinez                           Slaughterhouse-Five                                  7030 28-JUN-23 01-JAN-22 N
+06-SEP-23          Returned Late   
+
+       442 Grace Perez                               Ulysses                                              7041 25-JUN-23 12-JUN-24 N
+14-SEP-23          Returned On Time
+
+       428 Ella Jones                                The Divine Comedy                                    7027 04-JUN-23 16-SEP-23 N
+23-JUL-22          Returned On Time
+
+       415 Scarlett Wilson                           Jane Eyre                                            7014 25-APR-23 26-JUN-23 N
+15-SEP-22          Returned On Time
+
+       448 Logan Martin                              Around the World in 80 Days                          7047 08-APR-23 04-MAY-22 N
+11-SEP-22          Returned Late   
+
+       443 Mason Smith                               Dubliners                                            7042 10-MAR-23 05-AUG-22 N
+07-JUL-23          Returned Late   
+
+       446 Ava Davis                                 The War of the Worlds                                7045 13-FEB-23 19-NOV-23 N
+28-OCT-23          Returned On Time
+
+       407 Charlotte Thomas                          War and Peace                                        7006 13-FEB-23 06-JAN-23 N
+13-AUG-22          Returned On Time
+
+       414 Mason Lee                                 Fahrenheit 451                                       7013 30-JAN-23 26-JAN-23 N
+03-SEP-23          Returned Late   
+
+       447 Emma Thomas                               Journey to the Center of the Earth                   7046 18-JAN-23 25-MAR-23 N
+14-JUN-23          Returned Late   
+
+       432 Evelyn Thompson                           Catch-22                                             7031 28-NOV-22 16-MAY-23 N
+20-JAN-22          Returned On Time
+
+
+ Member ID Member Name                               Book Title                               Borrowing Number Date Rese Due Date  I
+---------- ----------------------------------------- ---------------------------------------- ---------------- --------- --------- -
+Return Date        Return Status   
+------------------ ----------------
+       427 Benjamin Anderson                         The Iliad                                            7026 02-NOV-22 11-MAY-24 N
+17-OCT-23          Returned On Time
+
+       421 Scarlett Taylor                           Lord of the Flies                                    7020 28-OCT-22 22-MAR-23 Y
+Not Returned       Not Returned    
+
+       403 Evelyn Hernandez                          The Great Gatsby                                     7002 29-SEP-22 23-MAY-22 N
+10-SEP-22          Returned Late   
+
+       424 James Perez                               Frankenstein                                         7023 27-SEP-22 28-MAY-23 N
+20-FEB-24          Returned Late   
+
+       405 Olivia Martin                             Pride and Prejudice                                  7004 27-SEP-22 04-FEB-24 Y
+Not Returned       Not Returned    
+
+       435 Ethan Johnson                             The Old Man and the Sea                              7034 03-SEP-22 01-MAR-22 N
+04-SEP-22          Returned Late   
+
+       449 Mason Miller                              20,000 Leagues Under the Sea                         7048 19-AUG-22 07-MAR-22 N
+13-DEC-22          Returned Late   
+
+       445 Olivia Lee                                The Time Machine                                     7044 25-JUL-22 01-JAN-24 N
+16-NOV-22          Returned On Time
+
+       425 Ava Hernandez                             Dracula                                              7024 02-JUL-22 04-JUN-23 Y
+Not Returned       Not Returned    
+
+       430 Sebastian Moore                           The Picture of Dorian Gray                           7029 15-JUN-22 07-JUL-23 N
+08-MAR-24          Returned Late   
+
+       411 Scarlett Hernandez                        Emma                                                 7010 06-JUN-22 05-OCT-23 N
+13-JUN-22          Returned On Time
+
+       429 James Taylor                              Les Misérables                                       7028 06-JUN-22 18-JAN-23 N
+20-FEB-24          Returned Late   
+
+       408 Liam Lee                                  The Catcher in the Rye                               7007 22-MAY-22 06-JUN-23 N
+21-MAY-23          Returned On Time
+
+       440 Jack Jackson                              The Metamorphosis                                    7039 12-MAY-22 07-NOV-23 N
+02-MAY-23          Returned On Time
+
+       418 Grace Sanchez                             Wuthering Heights                                    7017 28-APR-22 30-NOV-23 N
+04-JUL-23          Returned On Time
+
+
+ Member ID Member Name                               Book Title                               Borrowing Number Date Rese Due Date  I
+---------- ----------------------------------------- ---------------------------------------- ---------------- --------- --------- -
+Return Date        Return Status   
+------------------ ----------------
+       426 Ella Lee                                  The Odyssey                                          7025 19-APR-22 10-JUN-24 N
+03-OCT-23          Returned On Time
+
+       437 Evelyn Lopez                              No Country for Old Men                               7036 29-MAR-22 20-JAN-24 N
+13-MAY-23          Returned On Time
+
+       410 Amelia White                              The Pragmatic Programmer                             7009 18-FEB-22 31-MAY-24 N
+23-APR-22          Returned On Time
+
+       450 Evelyn Gonzalez                           1984                                                 7049 22-JAN-22 26-AUG-23 N
+22-JUL-23          Returned On Time
+
+
+49 rows selected. 
+
+Displaying: Member Borrowing Summary
+
+ Member ID Member Name                               Total Borrowings Late Returns
+---------- ----------------------------------------- ---------------- ------------
+       402 Benjamin Hernandez                                       1            0
+       403 Evelyn Hernandez                                         1            0
+       404 Liam Martinez                                            1            0
+       405 Olivia Martin                                            1            1
+       406 Olivia Davis                                             1            0
+       407 Charlotte Thomas                                         1            0
+       408 Liam Lee                                                 1            0
+       409 Olivia Garcia                                            1            0
+       410 Amelia White                                             1            0
+       411 Scarlett Hernandez                                       1            0
+       412 Isabella Perez                                           1            0
+       413 Lucas Perez                                              1            1
+       414 Mason Lee                                                1            0
+       415 Scarlett Wilson                                          1            0
+       416 Sebastian Johnson                                        1            0
+       417 Lucas Thompson                                           1            1
+       418 Grace Sanchez                                            1            0
+       419 Elijah Martin                                            1            0
+       420 Ethan Lopez                                              1            0
+       421 Scarlett Taylor                                          1            1
+       422 Mia Martinez                                             1            0
+       423 Benjamin Thomas                                          1            0
+       424 James Perez                                              1            0
+       425 Ava Hernandez                                            1            1
+       426 Ella Lee                                                 1            0
+       427 Benjamin Anderson                                        1            0
+       428 Ella Jones                                               1            0
+       429 James Taylor                                             1            0
+       430 Sebastian Moore                                          1            0
+       431 Harper Martinez                                          1            0
+       432 Evelyn Thompson                                          1            0
+       433 Logan Lopez                                              1            0
+       434 Mia Miller                                               1            0
+       435 Ethan Johnson                                            1            0
+       436 Jack Perez                                               1            0
+       437 Evelyn Lopez                                             1            0
+       438 Amelia Smith                                             1            0
+       439 Isabella Lopez                                           1            0
+       440 Jack Jackson                                             1            0
+       441 Jack Hernandez                                           1            0
+       442 Grace Perez                                              1            0
+       443 Mason Smith                                              1            0
+       444 Ethan Jones                                              1            0
+       445 Olivia Lee                                               1            0
+       446 Ava Davis                                                1            0
+       447 Emma Thomas                                              1            0
+       448 Logan Martin                                             1            0
+
+ Member ID Member Name                               Total Borrowings Late Returns
+---------- ----------------------------------------- ---------------- ------------
+       449 Mason Miller                                             1            0
+       450 Evelyn Gonzalez                                          1            0
+       401 Emma White                                               0            0
+
+50 rows selected. 
+
+Displaying: Book Availability View
+
+   Book ID Book Title                               Author Name                               Total Copies Available Copies
+---------- ---------------------------------------- ----------------------------------------- ------------ ----------------
+Checked Out Copies
+------------------
+      5001 Clean Code                               Robert C. Martin                                     1                0 
+                 0
+
+      5002 To Kill a Mockingbird                    Harper Lee                                           1                0 
+                 0
+
+      5003 The Great Gatsby                         F. Scott Fitzgerald                                  1                1 
+                 0
+
+      5004 Moby Dick                                Herman Melville                                      1                1 
+                 0
+
+      5005 Pride and Prejudice                      Jane Austen                                          1                0 
+                 0
+
+      5006 Brave New World                          Aldous Huxley                                        1                1 
+                 0
+
+      5007 War and Peace                            Leo Tolstoy                                          1                0 
+                 0
+
+      5008 The Catcher in the Rye                   J.D. Salinger                                        1                0 
+                 0
+
+      5009 Crime and Punishment                     Fyodor Dostoevsky                                    1                1 
+                 0
+
+      5010 The Pragmatic Programmer                 Andy Hunt                                            1                0 
+                 0
+
+      5011 Emma                                     Jane Austen                                          1                0 
+                 0
+
+      5012 Animal Farm                              George Orwell                                        1                0 
+                 0
+
+      5013 Sense and Sensibility                    Jane Austen                                          1                1 
+                 0
+
+      5014 Fahrenheit 451                           Ray Bradbury                                         1                1 
+                 0
+
+      5015 Jane Eyre                                Charlotte Bronte                                     1                0 
+                 0
+
+
+   Book ID Book Title                               Author Name                               Total Copies Available Copies
+---------- ---------------------------------------- ----------------------------------------- ------------ ----------------
+Checked Out Copies
+------------------
+      5016 The Brothers Karamazov                   Fyodor Dostoevsky                                    1                1 
+                 0
+
+      5017 The Clean Coder                          Robert C. Martin                                     1                0 
+                 0
+
+      5018 Wuthering Heights                        Emily Bronte                                         1                0 
+                 0
+
+      5019 Great Expectations                       Charles Dickens                                      1                1 
+                 0
+
+      5020 The Hobbit                               Jules Verne                                          1                1 
+                 0
+
+      5021 Lord of the Flies                        Charles Dickens                                      1                1 
+                 0
+
+      5022 A Tale of Two Cities                     Charles Dickens                                      1                0 
+                 0
+
+      5023 The Scarlet Letter                       Charles Dickens                                      1                0 
+                 0
+
+      5024 Frankenstein                             Mary Shelley                                         1                0 
+                 0
+
+      5025 Dracula                                  Bram Stoker                                          1                1 
+                 0
+
+      5026 The Odyssey                              Homer Simpson                                        1                1 
+                 0
+
+      5027 The Iliad                                Homer Simpson                                        1                0 
+                 0
+
+      5028 The Divine Comedy                        Dante Alighieri                                      1                1 
+                 0
+
+      5029 Les Misérables                           Victor Hugo                                          1                1 
+                 0
+
+      5030 The Picture of Dorian Gray               Oscar Wilde                                          1                1 
+                 0
+
+
+   Book ID Book Title                               Author Name                               Total Copies Available Copies
+---------- ---------------------------------------- ----------------------------------------- ------------ ----------------
+Checked Out Copies
+------------------
+      5031 Slaughterhouse-Five                      Kurt Vonnegut                                        1                1 
+                 0
+
+      5032 Catch-22                                 Joseph Heller                                        1                0 
+                 0
+
+      5033 The Sun Also Rises                       Ernest Hemingway                                     1                1 
+                 0
+
+      5034 Of Mice and Men                          John Steinbeck                                       1                0 
+                 0
+
+      5035 The Old Man and the Sea                  Ernest Hemingway                                     1                0 
+                 0
+
+      5036 The Road                                 Cormac McCarthy                                      1                0 
+                 0
+
+      5037 No Country for Old Men                   Cormac McCarthy                                      1                1 
+                 0
+
+      5038 The Bell Jar                             Sylvia Plath                                         1                1 
+                 0
+
+      5039 The Stranger                             Albert Camus                                         1                0 
+                 0
+
+      5040 The Metamorphosis                        Franz Kafka                                          1                1 
+                 0
+
+      5041 The Trial                                Franz Kafka                                          1                0 
+                 0
+
+      5042 Ulysses                                  James Joyce                                          1                1 
+                 0
+
+      5043 Dubliners                                James Joyce                                          1                0 
+                 0
+
+      5044 A Portrait of the Artist as a Young Man  James Joyce                                          1                1 
+                 0
+
+      5045 The Time Machine                         H.G. Wells                                           1                1 
+                 0
+
+
+   Book ID Book Title                               Author Name                               Total Copies Available Copies
+---------- ---------------------------------------- ----------------------------------------- ------------ ----------------
+Checked Out Copies
+------------------
+      5046 The War of the Worlds                    H.G. Wells                                           1                1 
+                 0
+
+      5047 Journey to the Center of the Earth       Jules Verne                                          1                1 
+                 0
+
+      5048 Around the World in 80 Days              Jules Verne                                          1                1 
+                 0
+
+      5049 20,000 Leagues Under the Sea             Jules Verne                                          1                0 
+                 0
+
+      5000 1984                                     George Orwell                                        1                0 
+                 0
+
+
+50 rows selected. 
+

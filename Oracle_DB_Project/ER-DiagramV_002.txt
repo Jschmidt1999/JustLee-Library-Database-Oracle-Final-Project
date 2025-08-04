@@ -1,0 +1,132 @@
+JUSTLEE LIBRARY DATABASE - ENTITY RELATIONSHIP DIAGRAM V_002
+-------------------------------------------------------
+
+ENTITIES AND RELATIONSHIPS
+==========================
+
+Categories
+----------
+- CatCode (PK)
+- CatName
+  |
+  |<--[Categories.CatCode]
+  |
+Books
+-----
+- BookID (PK)
+- Title
+- AuthorID (FK → Authors.AuthorID)
+- ISBN
+- Price
+- CatCode (FK → Categories.CatCode)
+- Publisher
+- PubYear
+  |
+  |<--[Books.BookID]
+  |
+BookCopies
+----------
+- CopyID (PK)
+- Status ('A' or 'I')
+- BookID (FK → Books.BookID)
+  |
+  |<--[BookCopies.CopyID]
+  |
+Borrowing
+---------
+- BorrowingID (PK)
+- MemberID (FK → Members.MemberID)
+- CopyID (FK → BookCopies.CopyID)
+- ReservationDate
+- DueDate
+- ReturnDate
+- IsLate ('Y' or 'N')
+- StaffID (FK → Staff.StaffID)
+  |
+  |<--[Borrowing.BorrowingID]
+  |
+BorrowingStaff
+--------------
+- StaffID (FK → Staff.StaffID)
+- BorrowingID (FK → Borrowing.BorrowingID)
+- ActionType (e.g. 'Issued', 'Returned')
+- ActionDate
+
+Authors
+-------
+- AuthorID (PK)
+- FirstName
+- LastName
+
+Members
+-------
+- MemberID (PK)
+- FirstName
+- LastName
+- Phone
+- Email
+- MembershipDate
+- Username
+- PasswordHash
+  |
+  |<--[Reservations.MemberID]
+  |<--[Borrowing.MemberID]
+  |<--[ActivityLog.MemberID]
+  |<--[ForumLog.MemberID]
+
+Reservations
+------------
+- ReservationID (PK)
+- MemberID (FK → Members.MemberID)
+- BookID (FK → Books.BookID)
+- BorrowDate
+- DueDate
+- CheckoutDate
+
+Staff
+-----
+- StaffID (PK)
+- FirstName
+- LastName
+- JobTitle
+- Salary
+- StartDate
+- EndDate
+- Username
+- PasswordHash
+  |
+  |<--[Borrowing.StaffID]
+  |<--[BorrowingStaff.StaffID]
+  |<--[ForumLog.StaffID]
+
+ActivityLog
+-----------
+- AccessID (PK)
+- MemberID (FK → Members.MemberID)
+- AccessType ('Digital' or 'Physical')
+- AccessDate
+
+ForumLog
+--------
+- LogID (PK)
+- MemberID (FK → Members.MemberID, nullable)
+- StaffID (FK → Staff.StaffID, nullable)
+- ActionType
+- Title
+- Content
+- Timestamp
+
+
+NOTES
+=====
+- All PKs are underlined above by label (PK), FKs by label (FK → Table.Column).
+- Relationships:
+  * 1 Category to many Books
+  * 1 Author to many Books
+  * 1 Book to many BookCopies
+  * 1 BookCopy to many Borrowings
+  * 1 Member to many Borrowings, Reservations, ActivityLogs, ForumLogs
+  * 1 Staff to many Borrowings, BorrowingStaff, ForumLogs
+  * 1 Borrowing to many BorrowingStaff entries
+
+-------------------------------------------------------

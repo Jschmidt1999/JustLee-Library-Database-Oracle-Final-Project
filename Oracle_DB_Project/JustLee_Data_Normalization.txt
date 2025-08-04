@@ -1,0 +1,75 @@
+JUSTLEE LIBRARY DATABASE - NORMALIZATION PROCESS
+================================================
+
+Objective:
+----------
+To design a relational database schema for a public library system that minimizes redundancy, ensures data integrity, and supports future scalability. Normalization was applied in stages up to 3NF.
+
+------------------------------------------------
+STEP 1: UNNORMALIZED FORM (UNF)
+------------------------------------------------
+Raw data might have included repeated fields like:
+- A single "Books" table that included multiple authors, multiple copies, and member borrowing records
+- "Reservations" or "Borrowing" embedded within the member table
+- Redundant member or staff details across logs
+
+Example of unnormalized data:
+  BookID | Title         | AuthorName     | CopyStatus | MemberName | BorrowDate
+  -------|---------------|----------------|------------|------------|------------
+   101   | "SQL Basics"  | Jane Doe       | A          | John Smith | 2023-10-01
+   101   | "SQL Basics"  | Jane Doe       | I          | [null]     | [null]
+
+Problem:
+- Redundancy of Book Title and Author Name
+- Atomicity violated: one field represents multiple pieces of data (e.g., CopyStatus belongs to a copy, not the book itself)
+- Data integrity risks: changing one record would require updating multiple rows
+
+------------------------------------------------
+STEP 2: FIRST NORMAL FORM (1NF)
+------------------------------------------------
+Resolved repeating groups and ensured atomicity.
+
+Changes Made:
+- Created separate tables for:
+    - 'Books' (1 row per book)
+    - 'Authors'
+    - 'BookCopies' (to represent individual physical copies)
+    - 'Members'
+    - 'Borrowing' (1 row per transaction)
+
+Result:
+Each table contains only atomic values, and there's no repeating groups within a single row.
+
+------------------------------------------------
+STEP 3: SECOND NORMAL FORM (2NF)
+------------------------------------------------
+Resolved partial dependencies.
+
+Key Focus:
+- Tables with composite keys or candidate keys were split where non-key attributes did not depend on the full key.
+
+Changes Made:
+- 'BorrowingStaff' was created to log multiple staff actions per borrowing transaction.
+- 'Categories' were extracted from 'Books' to separate reusable category data.
+- Moved copy-specific data (like 'Status') to 'BookCopies', separating it from 'Books'.
+
+Result:
+All non-key attributes are fully dependent on the entire primary key.
+
+------------------------------------------------
+STEP 4: THIRD NORMAL FORM (3NF)
+------------------------------------------------
+Removed transitive dependencies.
+
+Key Fixes:
+- Moved 'AuthorName' out of 'Books' into a separate 'Authors' table, avoiding duplicate names.
+- Member and staff usernames/passwords were stored in their own entities instead of appearing repeatedly across logs.
+- Forum and Activity logs reference only 'MemberID' or 'StaffID', and all personal details remain centralized.
+
+Result:
+All attributes are only dependent on the primary key, and there are no transitive dependencies.
+
+------------------------------------------------
+Conclusion:
+Normalization up to 3NF was applied through careful separation of entities, removal of redundant fields, and enforcing atomicity and referential integrity. The result is a clean, flexible, and efficient schema ready for expansion.
+
