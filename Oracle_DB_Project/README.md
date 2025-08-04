@@ -59,8 +59,11 @@ Minor error messages are expected when dropping tables or views that do not exis
 
 ## Additional Context
 
-This version does not include the Flask-based web portal build. That implementation is included under the `/Flask_Web_Portal` directory in the main repository and was shown as part of the final presentation.  
-Although the Flask source code was not submitted for grading, two short videos demonstrating the portal were embedded on the final slide of our presentation.
+Some minor formatting inconsistencies (such as indentation or alignment) may appear when viewing certain files directly in GitHub. These are rare and do not affect the core structure or accuracy of the SQL or documentation.
+
+The PowerPoint presentation may need to be **downloaded** to view properly due to embedded videos. GitHub’s online preview may not render all media correctly because of file size or format limitations.
+
+Note: This version does **not** include the Flask-based web portal build. That implementation is located in the `/Flask_Web_Portal` directory of the main repository and was shown during the final presentation. While the Flask source code was not required for grading, two short demo videos were embedded in the final slide of the presentation to illustrate functionality.
 
 This folder represents the original submission required for full credit. The work was graded on database design, normalization, SQL correctness, query functionality, and documentation quality.
 
